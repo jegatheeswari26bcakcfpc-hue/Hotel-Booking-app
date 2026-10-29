@@ -1,5 +1,5 @@
 # Hotel-Booking-app
-Design Link - https://www.figma.com/design/QdKd5Z8ANLh2BGoVqXyLkB/Untitled?node-id=0-1&p=f&t=285eJYHHf3Ejqud5-
+Design Link - https://www.figma.com/design/QdKd5Z8ANLh2BGoVqXyLkB/Untitled?node-id=0-1&p=f&t=4bopUQYJN39iP554-0
 Prototype Link - https://www.figma.com/proto/QdKd5Z8ANLh2BGoVqXyLkB/Untitled?node-id=0-1&t=285eJYHHf3Ejqud5-1
 # StayVista – Hotel Booking App UI/UX Design
 
